@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.exe
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.deps.json
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.runtimeconfig.json
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.dll
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\bin\Debug\netcoreapp3.1\FridayWorkWithFiles.pdb
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.dll
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.pdb
+C:\Users\opilane\source\repos\FridayWorkWithFiles\FridayWorkWithFiles\obj\Debug\netcoreapp3.1\FridayWorkWithFiles.genruntimeconfig.cache
